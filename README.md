@@ -22,6 +22,7 @@
 - [PotiaPOW](https://www.roblox.com/games/13590649521/PotiaPOW) 🧪: A work-in-progress Roblox team-based shooter with powerful potions (like mario kart blocks but for killing people)
 - [CS Sim](https://www.roblox.com/games/15993713154/Computer-Sci-Simulatiooooooooon) 🏢: A top-down city simulation.
 - BanSite ❌: A web app written in flask that interfaces with the roblox ban API to remotely view moderation history.
+- [The Jambos Casa](https://jambos.casa/) 🦧: The most exquisite website ever to be made...
 
 Other projects can be found on my profile here and elsewhere! But are unremarkable and boring so I didnt write them here 💤
 
